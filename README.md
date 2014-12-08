@@ -3,7 +3,7 @@ routines
 
 A simple yet powerful 'start' function for initiating coroutines written using the es6 yield keyword.
 
-This meant to work in javascript 1.7 or node > v0.11.
+This is meant to work in javascript 1.7 or node > v0.11.
 
 The psuedo-recursive magic start function
 ========================================
